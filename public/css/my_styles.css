@@ -1,0 +1,14 @@
+.button{
+  background-color: #0062ff;
+  border-radius: 5px;
+  color: white;
+}
+
+.button:hover {
+  background-color: #004BE2;
+  box-shadow: 2px 2px 2px 0px rgba(0,0,0,0.75);
+}
+
+.button:active {
+  background-color: #0035C5;
+}
